@@ -6,13 +6,13 @@
 //  Copyright (c) 2001 Tom Callon . All rights reserved.
 //
 
-#import "FirstViewController.h"
+#import "ManagerViewController.h"
 
-@interface FirstViewController ()
+@interface ManagerViewController ()
 
 @end
 
-@implementation FirstViewController
+@implementation ManagerViewController
 
 - (void)viewDidLoad
 {

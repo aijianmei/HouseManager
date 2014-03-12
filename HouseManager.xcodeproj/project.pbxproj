@@ -15,7 +15,7 @@
 		4A0BB70B0000AF430045ED76 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A0BB70A0000AF430045ED76 /* AppDelegate.m */; };
 		4A0BB70E0000AF430045ED76 /* Main_iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4A0BB70C0000AF430045ED76 /* Main_iPhone.storyboard */; };
 		4A0BB7110000AF430045ED76 /* Main_iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4A0BB70F0000AF430045ED76 /* Main_iPad.storyboard */; };
-		4A0BB7140000AF430045ED76 /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A0BB7130000AF430045ED76 /* FirstViewController.m */; };
+		4A0BB7140000AF430045ED76 /* ManagerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A0BB7130000AF430045ED76 /* ManagerViewController.m */; };
 		4A0BB7170000AF430045ED76 /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A0BB7160000AF430045ED76 /* SecondViewController.m */; };
 		4A0BB7190000AF430045ED76 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4A0BB7180000AF430045ED76 /* Images.xcassets */; };
 		4A0BB7200000AF430045ED76 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4A0BB71F0000AF430045ED76 /* XCTest.framework */; };
@@ -53,8 +53,8 @@
 		4A0BB70A0000AF430045ED76 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		4A0BB70D0000AF430045ED76 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main_iPhone.storyboard; sourceTree = "<group>"; };
 		4A0BB7100000AF430045ED76 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main_iPad.storyboard; sourceTree = "<group>"; };
-		4A0BB7120000AF430045ED76 /* FirstViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FirstViewController.h; sourceTree = "<group>"; };
-		4A0BB7130000AF430045ED76 /* FirstViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FirstViewController.m; sourceTree = "<group>"; };
+		4A0BB7120000AF430045ED76 /* ManagerViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ManagerViewController.h; sourceTree = "<group>"; };
+		4A0BB7130000AF430045ED76 /* ManagerViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ManagerViewController.m; sourceTree = "<group>"; };
 		4A0BB7150000AF430045ED76 /* SecondViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
 		4A0BB7160000AF430045ED76 /* SecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
 		4A0BB7180000AF430045ED76 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
@@ -133,8 +133,8 @@
 				4A0BB70A0000AF430045ED76 /* AppDelegate.m */,
 				4A0BB70C0000AF430045ED76 /* Main_iPhone.storyboard */,
 				4A0BB70F0000AF430045ED76 /* Main_iPad.storyboard */,
-				4A0BB7120000AF430045ED76 /* FirstViewController.h */,
-				4A0BB7130000AF430045ED76 /* FirstViewController.m */,
+				4A0BB7120000AF430045ED76 /* ManagerViewController.h */,
+				4A0BB7130000AF430045ED76 /* ManagerViewController.m */,
 				4A0BB7150000AF430045ED76 /* SecondViewController.h */,
 				4A0BB7160000AF430045ED76 /* SecondViewController.m */,
 				4A0BB7350000B1200045ED76 /* ThirdViewController.h */,
@@ -293,7 +293,7 @@
 				4A0BB7170000AF430045ED76 /* SecondViewController.m in Sources */,
 				4A0BB7370000B1200045ED76 /* ThirdViewController.m in Sources */,
 				4A0BB70B0000AF430045ED76 /* AppDelegate.m in Sources */,
-				4A0BB7140000AF430045ED76 /* FirstViewController.m in Sources */,
+				4A0BB7140000AF430045ED76 /* ManagerViewController.m in Sources */,
 				4A0BB7070000AF430045ED76 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
