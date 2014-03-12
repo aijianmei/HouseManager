@@ -23,10 +23,10 @@
             </objects>
             <point key="canvasLocation" x="-115" y="237"/>
         </scene>
-        <!--First View Controller - First-->
+        <!--Manager View Controller - First-->
         <scene sceneID="W3I-pn-N6e">
             <objects>
-                <viewController title="First" id="CZ4-MO-1fc" customClass="FirstViewController" sceneMemberID="viewController">
+                <viewController title="First" id="CZ4-MO-1fc" customClass="ManagerViewController" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="fiz-dp-hm4"/>
                         <viewControllerLayoutGuide type="bottom" id="gzt-IQ-nvv"/>
